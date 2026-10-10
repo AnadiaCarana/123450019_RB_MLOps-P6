@@ -1,0 +1,6 @@
+outs:
+- md5: da2f2d32be4523ff3f9ad73d70f637dd.dir
+  size: 11088768
+  nfiles: 6
+  hash: md5
+  path: subset

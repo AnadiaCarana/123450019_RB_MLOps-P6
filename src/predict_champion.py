@@ -1,4 +1,6 @@
 """Langkah 7b: muat model via models:/<nama>@champion lalu prediksi."""
+import os
+os.environ["CUDA_VISIBLE_DEVICES"] = ""
 import mlflow
 import numpy as np
 

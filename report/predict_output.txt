@@ -1,0 +1,10 @@
+[0] prediksi=Coat         | label asli=Coat
+[1] prediksi=Ankle boot   | label asli=Ankle boot
+[2] prediksi=Coat         | label asli=Coat
+[3] prediksi=Coat         | label asli=Coat
+[4] prediksi=Ankle boot   | label asli=Ankle boot
+[5] prediksi=T-shirt/top  | label asli=T-shirt/top
+[6] prediksi=Trouser      | label asli=Trouser
+[7] prediksi=Trouser      | label asli=Trouser
+[8] prediksi=Sandal       | label asli=Sandal
+[9] prediksi=Pullover     | label asli=Coat

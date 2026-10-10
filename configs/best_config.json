@@ -1,0 +1,11 @@
+{
+  "lr": 0.0026070247583707684,
+  "batch_size": 128,
+  "epochs": 10,
+  "dropout": 0.20616955533913808,
+  "use_bn": true,
+  "augment": true,
+  "base_channels": 64,
+  "weight_decay": 3.752055855124284e-05,
+  "seed": 42
+}
